@@ -1,0 +1,11 @@
+{
+  "name": "lat",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Kenrick",
+  "license": "MIT",
+  "devDependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1"
+  }
+}
